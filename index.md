@@ -12,9 +12,9 @@ startdate: 2018-01-24      # machine-readable start date for the workshop in YYY
 enddate: 2018-01-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Karen Word", "Daniel Standage", "Lisa Cohen", "Taylor Reiter", "Sue McClatchy"] 
 helper: ["Jessica Mizzi"]     
-email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["susan.mcclatchy@jax.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:41685004972           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 41685004972           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -41,7 +41,7 @@ eventbrite:41685004972           # optional: alphanumeric key for Eventbrite reg
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="248px"
+  height="268px"
   scrolling="auto">
 </iframe>
 {% endif %}
