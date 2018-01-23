@@ -10,10 +10,10 @@ humandate: "Jan 24-25, 2018"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-01-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-01-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Karen Word", "Daniel Standage", "Lisa Johnson Cohen", "Taylor Reiter", "Sue McClatchy"] 
-helper: ["Jessica Mizzi"]     
+instructor: ["Karen Word", "Daniel Standage", "Lisa Johnson Cohen", "Taylor Reiter", "Sue McClatchy", "Jeffrey Miller"]
+helper: ["Jessica Mizzi", "Ryan Peek"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://public.etherpad-mozilla.org/p/2018-01-24-ucdavis
 eventbrite: 41685004972           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
