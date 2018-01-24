@@ -2,10 +2,10 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of California Davis"        
-address: "Bennett Conference Room, Center for Companion Animal Health, Davis, CA 95616-8782"      
+address: "Bennett Conference Room, Center for Companion Animal Health, Davis, CA 95616-8782"
 country: "us"    
 language: "en"     
-latlng: "38.539875,-121.754869"
+latlng: "38.531005,-121.763214"
 humandate: "Jan 24-25, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-01-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
