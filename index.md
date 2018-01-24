@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of California Davis"        
-address: "Bennett Conference Room, Center for Companion Animal Health, One Shields Avenue, Davis, CA 95616-8782"      
+address: "Bennett Conference Room, Center for Companion Animal Health, Davis, CA 95616-8782"      
 country: "us"    
 language: "en"     
 latlng: "38.539875,-121.754869"
